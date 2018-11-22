@@ -18,6 +18,10 @@ public class HeliAsset : MonoBehaviour {
 	}
 
 	void Update () {
+		
+		if(Input.GetKey("F")){
+			TurnOn=true;
+		}
 
 		if (TurnOn) {
 
