@@ -12,13 +12,3 @@ Drag your propellers to empty slots.
 Drag your helicopter audio to empty slots.
 
 Than your helicopter is ready.
-
-DO NOT FORGET ADD OPEN UP BOOL.I DIDNT DO OPEN UP.
-
-if(Input.GetKey"YourTurnOnKey"){
-      TurnOn=true;
-}
-
-
-
-  ADD THIS CODE TO UPDATE VOID.
